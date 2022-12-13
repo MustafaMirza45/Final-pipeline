@@ -1,6 +1,6 @@
 # Gharaish-Featurising-your-aesthetics
 
-A repository for the project Gharaish-Featurising-your-aesthetics.
+A repository for our FYP project Gharaish Featurising your aesthetics.
 
 ## Overview
 
